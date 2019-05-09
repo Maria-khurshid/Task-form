@@ -1,3 +1,4 @@
+
 #relative{
     background-color: rgb(81, 211, 168);
     margin: 0%;
@@ -7,7 +8,7 @@
 body{
     width: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-image: linear-gradient(to right, #58d1de, #abd483);
+    background-image: linear-gradient(to right, #ce58de, #69a7f7);
 }
 
 .look{
